@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05d97ac9-c3cb-4a9a-97cb-1fdd51ef7dcd/deploy-status)](https://app.netlify.com/sites/hdrp0720-trello-snowpack/deploys)
 
 # Svelte Trello clone app with Snowpack
 
@@ -5,7 +6,7 @@
 
 ![demo gif](./src/images/svelte-trello-example.gif)
 
-<u>**[DEMO]()**</u>
+<u>**[DEMO](https://hdrp0720-trello-snowpack.netlify.app/)**</u>
 
 ## 기본 패키지
 
