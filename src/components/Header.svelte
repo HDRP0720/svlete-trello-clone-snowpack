@@ -1,5 +1,4 @@
-<header>
-  X-Content-Type-Options: nosniff
+<header> 
 
   <img 
     src="/images/trello-logo.svg" 
